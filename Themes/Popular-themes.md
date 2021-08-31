@@ -10,3 +10,11 @@
 8. OceanWP
 9. Zakra
 10. Zeta
+11. Hestia Theme
+12. Optimizer Theme
+13. Shapely Theme
+14. Mesmerize Theme
+15. GeneratePress
+16. Foodica
+17. Hello theme  
+18. Simple
